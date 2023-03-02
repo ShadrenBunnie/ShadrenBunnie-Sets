@@ -21,7 +21,7 @@ public class Lab {
      * @return a new Set<Integer> object.
      */
     public Set<Integer> createSet(){
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>(); //this was a little frustrating as GitPod kept giving red squiggly lines when it was the same thing.
         return set;
     }
 
